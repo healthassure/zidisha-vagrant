@@ -15,7 +15,7 @@
         sendmail_path: "/usr/bin/env catchmail"
         sendmail_from: "service@zidisha.dev"
     git:
-        repository: "git@github.com:healthassure/zidisha.git"
+        repository: "git@github.com:healthassure/zidisha-vagrant"
     database:
         host: 127.0.0.1
         name: zidisha
